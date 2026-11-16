@@ -1,4 +1,4 @@
-# Anusha's QA Learning Roadmap
+#  QA Learning Roadmap
 
 My journey from Manual QA to Automation & AI Quality Engineering.
 
